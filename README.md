@@ -1,1 +1,1 @@
-# itmo-ads-labs
+# ifmo-ads-labs
