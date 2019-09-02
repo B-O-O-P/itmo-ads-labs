@@ -28,7 +28,7 @@
 
 ## Четвертый семестр
 
-* [Потоки и паросочетания](term%204/Flows%20and%20matching) - [Условия](term%204/Flows%20and%20matching/Условия.md)
+* [Потоки и паросочетания](term%204/Flows%20and%20matchings) - [Условия](term%204/Flows%20and%20matchings/Условия.md)
 
 * [Поток минимальной стоимости](term%204/Min%20cost%20flow) - [Условия](term%204/Min%20cost%20flow/Условия.md)
 
