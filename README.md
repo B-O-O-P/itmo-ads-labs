@@ -10,7 +10,7 @@
 
 ## Второй семестр
 
-* [Дерево отрезков](term%202/Segment%20tree) - [Условия]term%202/Segment%20tree/Условия.md)
+* [Дерево отрезков](term%202/Segment%20tree) - [Условия](term%202/Segment%20tree/Условия.md)
 
 * [Дерево поиска](term%202/Search%20tree) - [Условия](term%202/Search%20tree/Условия.md)
 
