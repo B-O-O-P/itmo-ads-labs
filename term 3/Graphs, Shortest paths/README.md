@@ -378,7 +378,7 @@ Impossible
 Impossible
 ```
 
-### [Решение](G.cpp)
+
 
 
 ## H. Карликовая башня
