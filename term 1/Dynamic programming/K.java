@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class J {
+public class K {
 
     static boolean GOGO(long x, long y, int n) {
         long b[] = new long[5];
